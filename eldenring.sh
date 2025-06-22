@@ -108,10 +108,6 @@ if [[ $beast == $choose || $choose == "Andrey" ]]; then
 elif [[ $USER == "bernard" ]]; then
 	echo "Bernard always wins. You killed the beast!"
 else
-        echo "Margit thinks..."
-        sleep 5
-        echo "Margit starts laughing"
-        sleep 2
         echo "Margit rips you apart...you died"
 fi
 
