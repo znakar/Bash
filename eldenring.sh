@@ -103,7 +103,7 @@ beast=$(( $RANDOM % 10 ))
 echo "The Boss chose a number $beast" 
 
 
-if [[ $beast == $choose || $choose == "Andrey" ]]; then
+if [[ $beast == $choose || $choose == "Debian" ]]; then
 	echo "You killed Boss!"
 elif [[ $USER == "bernard" ]]; then
 	echo "Bernard always wins. You killed the beast!"
