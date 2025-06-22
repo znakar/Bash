@@ -6,7 +6,7 @@ echo "Welcome hero. Choose you starting class:
 
 1 - Samurai
 2 - Prisoner
-2 - Prophet"
+3 - Prophet"
 
 read class
 
